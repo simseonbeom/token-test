@@ -15,6 +15,7 @@ StyleDictionary.registerFormat({
   }
 });
 
+
 StyleDictionary.registerTransform({
   name: 'attribute/spacing',
   type: 'attribute',

@@ -1,5 +1,5 @@
 module.exports = {
-  "primary": "#1856f4ff",
+  "primary": "#18f470ff",
   "white": "#ffffffff",
   "black": "#000000ff",
   "space-1": 4,

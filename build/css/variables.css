@@ -1,13 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Fri, 18 Jul 2025 04:41:46 GMT
+ * Generated on Fri, 18 Jul 2025 04:45:15 GMT
  */
 
 :root {
-  --primary: #f41818ff;
+  --primary: #1856f4ff;
   --white: #ffffffff;
   --black: #000000ff;
   --space-1: 4px;
   --space-2: 8px;
   --space-3: 12px;
+  --red: #ff0000ff;
 }

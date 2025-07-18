@@ -2,11 +2,9 @@ name: Build Design Tokens
 
 # 푸시할 때마다 실행
 on:
-  push:
-    branches:
-      - main
-      - 'feat/**'  # 선택적으로 feature 브랜치도 가능
-
+  repository_dispatch:
+    types: [update-tokens]
+    
 jobs:
   build:
     name: Transform and Build Design Tokens
